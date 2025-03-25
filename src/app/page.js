@@ -25,7 +25,7 @@ export default function Home() {
 
   return (
     <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Mollie Payment Flow</h1>
+      <h1 className="text-2xl font-bold mb-4">Merchant Solution</h1>
       <MermaidChart chartCode={chart} />
     </div>
   );
